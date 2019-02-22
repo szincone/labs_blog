@@ -33,7 +33,7 @@ github_handle: szincone
 
 ---
 ### Detailed Analysis
-Ticket 1 - added_create_edit_view
+Ticket 1 - added-create-edit-view
 
   * One of the needed APIs, was PapaParse. Papaparse is used to convert CSV to JSON or vise versa. I initially went about creating a papaparse component, I kept the state managed in the component. I made a test component on my own, then went about implementing it into the actual project. After getting the papaparse function working, I started working on all of the features in the settings component that included the papaparse function. I got the basic settings bar working, complete with the needed methods to complete all 3 inputs. It's working really well and will make uploading student data really easy.
     * ![screen shot](/assets/2_21/papa_methods.JPG)
